@@ -1,3 +1,6 @@
 name: MCTosoGame
 main: com.pekomiya.mctosogame.Main
 version: 0.1
+commands:
+   tosogame:
+      usage: /<command>
